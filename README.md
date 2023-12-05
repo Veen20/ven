@@ -1,3 +1,3 @@
-# ven
+# UAS-PEMROGRAMAN-KOMPUTER-PENI-ILHAMI-09011182328101
 
-NAMA :PENI ILHAMI
+Uas Pemrograman Nama : Peni Ilhami, Kelas: SK1B,Fakultas Ilmu Komputer
